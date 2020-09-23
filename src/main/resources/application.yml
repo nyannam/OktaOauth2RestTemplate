@@ -1,0 +1,4 @@
+client:
+  clientId: {$client id}
+  clientSecret: {$client secret}
+  accessTokenUri: {$access token url}
